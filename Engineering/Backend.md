@@ -17,4 +17,4 @@ Be aware but don't use until its extreamly important
 ![Area paths for backend team](https://github.com/user-attachments/assets/64648dec-8a2c-4837-bcf6-f8b5f1d5ceac)
 
 ## Engineering Internals
--[SQL](https://www.youtube.com/watch?v=HhqOrbX3Bls&list=PLDYqU5RH_aX1VSVvjdla9TOKf939UhIDB)
+-[SQL Database](https://www.youtube.com/watch?v=HhqOrbX3Bls&list=PLDYqU5RH_aX1VSVvjdla9TOKf939UhIDB)
