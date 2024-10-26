@@ -1,4 +1,4 @@
-## For Engineering Leadershipt
+## For Engineering Leadership
 
 1. Efficient Task Management and Prioritization
 
