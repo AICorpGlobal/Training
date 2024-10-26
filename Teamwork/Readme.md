@@ -1,4 +1,4 @@
-How to annoy your manager, here is a comprehensive list of things you can do
+## How to annoy your manager, here is a comprehensive list of things you can do
 
 - Interrupt them with a million questions you haven’t even tried to figure out on your own. Who needs documentation when you have a someone to depend, right?
 
