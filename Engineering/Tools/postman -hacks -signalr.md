@@ -1,41 +1,7 @@
 Connecting to Asp.Net Core SignalR Hub from Postman with an example.
-====================================================================
+==================================================================== 
 
-[![Dipendra Neupane](https://miro.medium.com/v2/resize:fill:88:88/1*PbwCrsrAsQKvBbRffEcZ1Q.jpeg)](https://medium.com/@dipneupane?source=post_page-----275c0f77bec--------------------------------)[![codenp](https://miro.medium.com/v2/resize:fill:48:48/1*DJt9pKid093xVsjXzRGhFg.png)](https://medium.com/codenp?source=post_page-----275c0f77bec--------------------------------)
-
-[Dipendra Neupane](https://medium.com/@dipneupane?source=post_page-----275c0f77bec--------------------------------)
-
-·
-
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F37161d399cd7&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcodenp%2Fconnecting-to-asp-net-core-signalr-hub-from-postman-with-an-example-275c0f77bec&user=Dipendra+Neupane&userId=37161d399cd7&source=post_page-37161d399cd7----275c0f77bec---------------------post_header-----------)
-
-Published in
-
-[codenp](https://medium.com/codenp?source=post_page-----275c0f77bec--------------------------------)
-
-·
-
-3 min read
-
-·
-
-Sep 10, 2023
-
-[nameless link](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fcodenp%2F275c0f77bec&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcodenp%2Fconnecting-to-asp-net-core-signalr-hub-from-postman-with-an-example-275c0f77bec&user=Dipendra+Neupane&userId=37161d399cd7&source=-----275c0f77bec---------------------clap_footer-----------)
-
---
-
-1
-
-[nameless link](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F275c0f77bec&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fcodenp%2Fconnecting-to-asp-net-core-signalr-hub-from-postman-with-an-example-275c0f77bec&source=-----275c0f77bec---------------------bookmark_footer-----------)
-
-Listen
-
-Share
-
-SignalR is an ideal solution for Asp.Net developers that makes it incredibly simple to deliver real-time auto page refresh solutions.
-
-![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*j8twgKw2WUOOSJPkI5geew.png)
+SignalR is an ideal solution for Asp.Net developers that makes it incredibly simple to deliver real-time auto page refresh solutions. 
 
 For adding any sort of real-time web functionality to the Asp.Net application where the requirement is to the show user an update from the server without the user’s interaction on the browser, SignalR can be used.
 
