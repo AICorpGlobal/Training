@@ -73,10 +73,11 @@ localhost:5079/chat-hub
 
 Once connected, enter the message in the following format and send the request.
 
-```
+```json
 {
-  "protocol": "json",
-  "version": 1
+    "protocol": "json",
+    "version": 1,
+    "allowReconnect":true
 }
 ```
 
