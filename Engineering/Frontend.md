@@ -193,3 +193,8 @@ The curated training list should be followed in a structured manner:
 
 
 We consider Frontend and App as Frontend stack
+
+
+## Sources
+[Google web development](https://web.dev/learn)
+
