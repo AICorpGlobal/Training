@@ -115,6 +115,29 @@ Welcome to our interview preparation guide! This document will help you prepare 
    - Discuss trade-offs in your design
    - Consider scalability from the start
    - Be ready to deep dive into any component
+  
+   - To do well in a System Design Round
+
+       - Requirements Clarification
+          - In the first step, clarify functional and non-functional requirements. Ask questions to understand the core features of the system as well as non-functional aspects such as data volume, availability, scale, etc.
+
+       - Capacity Estimation
+          - Next, estimate the capacity of the system. Focus on attributes like the number of users, traffic, storage/memory needs, and compute and networking requirements.
+
+       - Create High-Level Design
+          - Break down the system into components such as client apps, servers, load balancers, databases, etc.    Start with drawing a simple block diagram that shows these components and their potential interaction with each other. Focus on the data flow.
+
+       - Database Design
+          - Model the data and choose the right database type for the system. Once done, focus on the database schema.
+
+       - Interface Design
+          - Next, focus on the interfaces to the system. This could be API endpoints or event models exchanged between the various components of the system. Also, choose a communication approach such as REST, GraphQL, gRPC, or an event-driven
+
+       - Scalability and Performance
+          - Address the scalability, performance, and latency aspects of the system by suggesting techniques that will be used. For example, vertical and horizontal scaling, caching, indexing, denormalizing, sharding, replication, CDNs, etc.
+
+       - Reliability and Resiliency
+          - Lastly, address the reliability and resiliency of the design. Identify single points of failure and mitigate their impact.
 
 ## What We Look For
 
@@ -159,3 +182,4 @@ Welcome to our interview preparation guide! This document will help you prepare 
    - Be ready for follow-up questions
 
 Remember, the goal is not just to solve problems but to demonstrate your thinking process and approach to problem-solving. Good luck with your preparation!
+
