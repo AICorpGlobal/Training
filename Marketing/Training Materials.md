@@ -1,5 +1,7 @@
 ### Training Content List for Marketing and Sales Staff
 
+You are supposed to be a self learner, Research yourself and learn about the following
+
 #### 1. **Documentation and Collaboration**
    - **Introduction to Obsidian**:  
      - Note organization and linking concepts (backlinks, graph view).  
