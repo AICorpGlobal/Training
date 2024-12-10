@@ -56,4 +56,4 @@ IPv4, CIDR notation, Basics of IP support protocols (ARP, DHCP, ICMP), Network A
 (NAT); Transport layer: flow control and congestion control, UDP, TCP, sockets; Application layer
 protocols: DNS, SMTP, HTTP, FTP, Email.
 
-![ Read More in Backend.md](Backend.md)
+Further more can be found in your relevant stack.
