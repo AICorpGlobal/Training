@@ -17,6 +17,7 @@
 - Learn Values and Principles at work, go through 
 	- [[EmployeeHandbook]]
 	- [[Workplace-Ethics-and-Employee-Productivi.pptx]]
+	- [AicorpGlobal](https://github.com/AICorpGlobal/AICorpGlobal)
 ## Day 2
 
 - First Contributing Day 
