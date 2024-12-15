@@ -1,6 +1,5 @@
 ## Important 
 - [Grap view os tech stack](https://coggle.it/diagram/ZtMDf8rvLIwlbc-0/t/backend-engineering/44ac2c05e0c7fcdd9920723c49ec128e5a65bcc430a145638eb01f5c64a884a1)
-
 - [Design patterns](https://www.youtube.com/watch?v=rylaiB2uH2A)
 - [System Design](https://www.youtube.com/watch?v=MbjObHmDbZo)
 - [SQL DBA](https://www.youtube.com/watch?v=s5D-akIgaSQ&list=PLDYqU5RH_aX1YFzkgpbemCHfAkuHkUu7c)
@@ -20,7 +19,7 @@ Be aware but don't use until its extreamly important
 -[SQL Database](https://www.youtube.com/watch?v=HhqOrbX3Bls&list=PLDYqU5RH_aX1VSVvjdla9TOKf939UhIDB)
 
 
-We specialize in backend development using the .NET stack and Go, with an additional focus on AWS Solution Architect certification:
+We specialize in backend development using the .NET stack and C++, with an additional focus on AWS Solution Architect certification:
 
 ### 1. **Backend Development Fundamentals**
    - **Understanding Client-Server Architecture**
@@ -32,11 +31,7 @@ We specialize in backend development using the .NET stack and Go, with an additi
      - Object-oriented programming (OOP) principles
      - .NET Core setup and environment
      - Basic console applications to understand syntax and flow control
-
-   - **Go (Golang) Basics**
-     - Go environment setup
-     - Go syntax, variables, loops, and functions
-     - Working with Go’s concurrency model (goroutines and channels)
+ 
 
 ### 2. **Database Management**
    - **SQL & NoSQL Databases**
@@ -49,8 +44,6 @@ We specialize in backend development using the .NET stack and Go, with an additi
      - Introduction to Object-Relational Mapping (ORM)
      - Creating models, DbContext, migrations, and querying using LINQ
 
-   - **GORM (Go ORM)**
-     - Understanding Go ORM basics for database interaction
 
 ### 3. **.NET Core Backend Development**
    - **Building APIs with ASP.NET Core**
@@ -68,21 +61,7 @@ We specialize in backend development using the .NET stack and Go, with an additi
      - Building and deploying microservices with .NET
      - Communication between services using gRPC, HTTP, and RabbitMQ
 
-### 4. **Go for Backend Development**
-   - **Building APIs with Go**
-     - Creating HTTP servers in Go
-     - Handling routing and request handling using packages like `net/http` and `gorilla/mux`
-     - Structuring large Go projects for maintainability
-
-   - **Go’s Concurrency Model**
-     - Working with Goroutines and Channels
-     - Handling concurrent requests and parallel processing
-
-   - **Microservices in Go**
-     - Using tools like Go Kit or Micro for microservice architecture
-     - Inter-service communication with REST, gRPC, and message queues
-
-### 5. **Cloud Computing with AWS**
+### 5. **Cloud Computing with AWS** (Not applicable as we moved on prem)
    - **AWS Core Services**
      - EC2: Instances and scaling
      - S3: Storage fundamentals and static website hosting
@@ -102,7 +81,7 @@ We specialize in backend development using the .NET stack and Go, with an additi
      - CodePipeline, CodeBuild, and CodeDeploy for continuous delivery
      - Using AWS Lambda and S3 for automated deployment
 
-### 6. **Advanced AWS Solution Architect Concepts**
+### 6. **Advanced AWS Solution Architect Concepts** (Not applicable as we moved on prem)
    - **Architecting for High Availability**
      - Design highly available, fault-tolerant systems using AWS services like EC2, ELB, Auto Scaling, and Route 53
      - Multi-AZ and Multi-Region architectures
@@ -126,10 +105,6 @@ We specialize in backend development using the .NET stack and Go, with an additi
    - **Unit Testing (C#/.NET)**
      - Writing unit tests using xUnit, NUnit, or MSTest
      - Mocking and testing with Moq
-
-   - **Testing in Go**
-     - Writing tests using the `testing` package
-     - Using mocks and test-driven development (TDD) approaches
 
    - **Integration Testing & End-to-End Testing**
      - Writing integration tests for APIs

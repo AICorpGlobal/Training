@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8422f380986e97ee",
+        "id": "dbd0ccdb58c3c908",
         "type": "tabs",
         "children": [
           {
-            "id": "fc45eb0f314a2aed",
+            "id": "adc7251258568274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/FresherTraining.md",
+                "file": "Engineering/languages/dotnet/readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FresherTraining"
+              "title": "readme"
             }
           }
         ]
@@ -210,9 +210,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc45eb0f314a2aed",
+  "active": "adc7251258568274",
   "lastOpenFiles": [
     "Engineering/Backend.md",
+    "Engineering/languages/dotnet/readme.md",
+    "Engineering/languages/dotnet",
+    "Engineering/languages/Untitled.md",
+    "Engineering/languages/rust/readme.md",
+    "Engineering/languages/cpp/readme.md",
+    "Engineering/languages/cpp/mastery.md",
+    "Engineering/Tools/postman -hacks -signalr.md",
     "Engineering/FresherTraining.md",
     "Engineering/Frontend.md",
     "Engineering/How to Excel at work.md",
@@ -236,12 +243,6 @@
     "Engineering/Components/Telemetry and analytics Getting Started.md",
     "Build-Plan/MileStones-Beta/SalesAgent/auto update for sales agent.md",
     "DomainConcept/Domains that we are interested.md",
-    "Build-Plan/MileStones-Beta/Chores/Update coding standards docs.md",
-    "Build-Plan/MileStones-Beta/Chores/update all node based service to latest LTS.md",
-    "Build-Plan/MileStones-Beta/Chores/Add Missing docs for Entities.md",
-    "DomainConcept/Entities/workflows.md",
-    "DomainConcept/Entities/Job.md",
-    "DomainConcept/Entities/stages.md",
     "Engineering/UnOrganized Info",
     "GettingStarted/hosts",
     "serverSetUpDocs/gitops-detailed-flow.png",
@@ -253,7 +254,6 @@
     "Build-Plan/MileStones-Beta/Technical-Capabilities",
     "Build-Plan/MileStones-Beta/Buyconn",
     "Build-Plan/MileStones-Beta/StreetXp",
-    "Build-Plan/MileStones-Beta",
     "DomainConcept/StreetXp-Logistics/WorlkFlowImages/providerFolder/Account.png",
     "DomainConcept/StreetXp-Logistics/WorlkFlowImages/dispatcherFolder/23_select_avaiable_car.jpg",
     "DomainConcept/StreetXp-Logistics/WorlkFlowImages/dispatcherFolder/22_select_transport.jpg",
