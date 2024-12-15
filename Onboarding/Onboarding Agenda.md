@@ -30,4 +30,6 @@
 
 ## Day 3 
 
-You should be good enough to navigate and pickup tasks from your workboard
+You should be good enough to navigate and pickup tasks from your work-board
+
+Happy Contributing
