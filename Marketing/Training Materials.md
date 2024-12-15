@@ -123,4 +123,4 @@ You are supposed to be a self learner, Research yourself and learn about the fol
 
 ---
 
-This structured program ensures that your team is well-equipped with both foundational knowledge and practical skills to excel in a data-driven environment. Let me know if you'd like help designing specific modules or exercises!
+This structured program ensures that your team is well-equipped with both foundational knowledge and practical skills to excel in a data-driven environment. 
