@@ -8,11 +8,12 @@
 	- [github](https://github.com/apps/desktop)
 	- [wps](https://www.wps.com/)
 
-- Get to know the team and facilities
-- Get Introduction to the Products and Businesses
 - Refresh tool stacks and knowledge
 	- Github
 	- Markdown
+
+- Get to know the team and facilities
+- Get Introduction to the Products and Businesses, one of the team member will guide you through
 - Learn Values and Principles at work, go through 
 	- [[EmployeeHandbook]]
 	- [[Workplace-Ethics-and-Employee-Productivi.pptx]]
