@@ -27,7 +27,7 @@
 		- Wrap with an note on your inference and findings
 - Meeting with Lead
 	- You will be assigned your first task and may get some hand holding to get you through 
-
+- Learn shortcuts and tricks in your tool stack
 ## Day 3 
 
 You should be good enough to navigate and pickup tasks from your work-board
