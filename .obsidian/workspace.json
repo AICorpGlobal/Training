@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onboarding/Onboarding Agenda.md",
+                "file": "Onboarding/Readme.md.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onboarding Agenda"
+              "title": "Readme.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding/Onboarding Agenda.md",
+                "file": "Onboarding/Readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Onboarding Agenda"
+              "title": "Backlinks for Readme.md"
             }
           },
           {
