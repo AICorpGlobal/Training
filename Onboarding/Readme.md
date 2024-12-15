@@ -1,5 +1,6 @@
 ## Day 1
 
+- Submit your proof documents, one of the team member will take copies and return it to you.
 - Procure Equipments that are necessary to full fill your role duties
 - Setup and personalise your tools
 	- [Ninite install list](https://ninite.com/?select=7zip-brave-ccleaner-chrome-discord-firefox-googledrivefordesktop-krita-libreoffice-malwarebytes-notepadplusplus-teracopy-thunderbirdesr128-vlc-vscode)
