@@ -28,7 +28,7 @@
 		- Explore and Evaluate Products and Solutions
 		- Wrap with an note on your inference and findings
 - Meet your Leader
-	- You will be assigned your first task and may get some hand holding to get you through 
+	- You may get assigned with your first task and may get some hand holding to get you through 
 - Learn shortcuts and tricks in your tool stack
 - Write a note on your learnings
 ## Day 3 
