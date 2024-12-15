@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "01f094e12dd7f583",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b5a2f52a6aa9c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afd85066d30fcbff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e9d6785f32ce1d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "686a05343cc3efc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "996375a15a28d2dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da44e1546ef9ccee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "stoc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18d8338707b9ca93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4883f889cbacfd23",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cccaca01765cd74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2797d3eb6cda635",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7c466ebf2e98b4bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dc8922a195f2f7ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "11607d70f46fff7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "35146cad17933840",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "63a4e752388f9a70",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e3c1c5ca8677ec27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d2d7da5429a8264b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "afd85066d30fcbff",
+  "lastOpenFiles": [
+    "Build-Plan/WorkBoard-Kanban.md",
+    "Engineering/Components/CRM and integrations.md",
+    "DomainConcept/Entities/Cards.md",
+    "Build-Plan/Images/Conversion output(3).jpg",
+    "Build-Plan/Images",
+    "Build-Plan/MileStones-Beta/Buyconn/whatsapp and Instagram intergation.md",
+    "Build-Plan/Engineering-Activity-Pipeline.canvas",
+    "Build-Plan/Create Customer Profile.md",
+    "Build-Plan/Invite Link.md",
+    "Build-Plan/Activity-Pipeline.canvas",
+    "Engineering/Components/Telemetry and analytics Getting Started.md",
+    "Build-Plan/MileStones-Beta/SalesAgent/auto update for sales agent.md",
+    "DomainConcept/Domains that we are interested.md",
+    "Build-Plan/MileStones-Beta/Chores/Update coding standards docs.md",
+    "Build-Plan/MileStones-Beta/Chores/update all node based service to latest LTS.md",
+    "Build-Plan/MileStones-Beta/Chores/Add Missing docs for Entities.md",
+    "DomainConcept/Entities/workflows.md",
+    "DomainConcept/Entities/Job.md",
+    "DomainConcept/Entities/stages.md",
+    "DomainConcept/Entities/Collaborative Sessions.md",
+    "Build-Plan/MileStones-Beta/SalesAgent/send welcome message to new customers.md",
+    "Engineering/UnOrganized Info/customerProfile filter and BulkAction.md",
+    "Engineering/UnOrganized Info",
+    "Engineering/Components/api_analytics.md",
+    "Engineering/Components/analytics-and-machine-learning.md",
+    "DomainConcept/Entities/links.md",
+    "Build-Plan/MileStones-Beta/Buyconn/whatsapp intergation.md",
+    "DomainConcept/workflows/CardJob for crm.md",
+    "Contributors/Engineering/Jazeem.md",
+    "Build-Plan/MileStones-Beta/Technical-Capabilities/Ledger Integration.md",
+    "GettingStarted/hosts",
+    "serverSetUpDocs/gitops-detailed-flow.png",
+    "serverSetUpDocs/gitops-ci.png",
+    "serverSetUpDocs/1678344653-flux-install.png",
+    "GettingStarted/Getting Started with .NET.dib",
+    "Build-Plan/MileStones-Beta/Chores",
+    "Engineering/Infrastructure",
+    "Build-Plan/MileStones-Beta/Technical-Capabilities",
+    "Build-Plan/MileStones-Beta/Buyconn",
+    "Build-Plan/MileStones-Beta/StreetXp",
+    "Build-Plan/MileStones-Beta",
+    "DomainConcept/StreetXp-Logistics/WorlkFlowImages/providerFolder/Account.png",
+    "DomainConcept/StreetXp-Logistics/WorlkFlowImages/dispatcherFolder/23_select_avaiable_car.jpg",
+    "DomainConcept/StreetXp-Logistics/WorlkFlowImages/dispatcherFolder/22_select_transport.jpg",
+    "DomainConcept/StreetXp-Logistics/WorlkFlowImages/controlpannel/Dashboard(13).png",
+    "DomainConcept/StreetXp-Logistics/WorlkFlowImages/controlpannel/Dashboard(12).png",
+    "DomainConcept/StreetXp-Logistics/WorlkFlowImages/controlpannel/Dashboard(11).png",
+    "Untitled.canvas"
+  ]
+}
