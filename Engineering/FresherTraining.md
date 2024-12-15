@@ -1,5 +1,5 @@
 
-Only applicable for those who are selected for extensive traning
+Only applicable for those who are selected for extensive training
 ## Engineering Mathematics
 
 - Discrete Mathematics: Propositional and first order logic. Sets, relations, functions, partial orders and
