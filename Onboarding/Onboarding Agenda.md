@@ -28,6 +28,7 @@
 - Meeting with Lead
 	- You will be assigned your first task and may get some hand holding to get you through 
 - Learn shortcuts and tricks in your tool stack
+- Write a note on your learnings
 ## Day 3 
 
 You should be good enough to navigate and pickup tasks from your work-board
