@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onboarding/Readme.md",
+                "file": "Teamwork/Readme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -212,6 +212,8 @@
   },
   "active": "adc7251258568274",
   "lastOpenFiles": [
+    "How to Excel at work.md",
+    "Onboarding/Readme.md",
     "Engineering/languages/dotnet/readme.md",
     "Engineering/Backend.md",
     "Engineering/languages/dotnet",
@@ -222,7 +224,6 @@
     "Engineering/Tools/postman -hacks -signalr.md",
     "Engineering/FresherTraining.md",
     "Engineering/Frontend.md",
-    "Engineering/How to Excel at work.md",
     "Engineering/Readme.md",
     "Engineering/Resources.md",
     "Engineering/SEPrinciples.md",
@@ -242,7 +243,6 @@
     "Build-Plan/Activity-Pipeline.canvas",
     "Engineering/Components/Telemetry and analytics Getting Started.md",
     "Build-Plan/MileStones-Beta/SalesAgent/auto update for sales agent.md",
-    "DomainConcept/Domains that we are interested.md",
     "Engineering/UnOrganized Info",
     "GettingStarted/hosts",
     "serverSetUpDocs/gitops-detailed-flow.png",
