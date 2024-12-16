@@ -17,3 +17,8 @@ Irrespective of previous experience , your reporting manager have the privilage 
     If those relationships are dysfunctional, the software will be, too. Good code is important, but it won't compensate for broken organizational designs or communication structures. 
     And if those are broken, the code likely won't be good, anyway. Or useful.
     - By a Ghost 
+
+## Cheat sheets
+
+- [cheat-sheets](https://www.cheat-sheets.org/)
+- [cheatography](https://cheatography.com/)
