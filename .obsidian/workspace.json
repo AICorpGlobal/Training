@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teamwork/Readme.md",
+                "file": "AboutUs/Aicorp.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Aicorp"
             }
           }
         ]
@@ -138,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "AboutUs/Aicorp.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Aicorp"
             }
           },
           {
@@ -149,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -205,13 +207,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adc7251258568274",
+  "active": "d2d7da5429a8264b",
   "lastOpenFiles": [
+    "AboutUs/Aicorp.md",
+    "Teamwork/Readme.md",
     "How to Excel at work.md",
     "Onboarding/Readme.md",
     "Engineering/languages/dotnet/readme.md",
@@ -241,8 +245,6 @@
     "Build-Plan/Create Customer Profile.md",
     "Build-Plan/Invite Link.md",
     "Build-Plan/Activity-Pipeline.canvas",
-    "Engineering/Components/Telemetry and analytics Getting Started.md",
-    "Build-Plan/MileStones-Beta/SalesAgent/auto update for sales agent.md",
     "Engineering/UnOrganized Info",
     "GettingStarted/hosts",
     "serverSetUpDocs/gitops-detailed-flow.png",
