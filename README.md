@@ -4,6 +4,8 @@ All of these document collection are to be used for educational purposes only.
 
 Rights belong to the original owners/authors . 
 
+[Start here](https://github.com/AICorpGlobal/AICorpGlobal?tab=readme-ov-file#ideas-at-work)
+
 ## Rule 
 
 Irrespective of previous experience , your reporting manager have the privilage to ask you to learn or acquire new skills or improve your existing skills.
