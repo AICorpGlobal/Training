@@ -8,3 +8,6 @@ Rights belong to the original owners/authors .
     If those relationships are dysfunctional, the software will be, too. Good code is important, but it won't compensate for broken organizational designs or communication structures. 
     And if those are broken, the code likely won't be good, anyway. Or useful.
     - By a Ghost 
+## Requriement of Training
+
+Irrespective of previous experience , your reporting manager have the privilage to ask you to learn or acquire new skills or improve your existing skills.
