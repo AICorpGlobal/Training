@@ -55,7 +55,9 @@
 
 12. **Sales as P2P (Person-to-Person)**:
     - Buyers purchase from people, not companies. Relationships matter more than pitches.
- 
+    
+ ![sales funnel](https://github.com/user-attachments/assets/6435df15-9e7d-44cc-b322-b04001467bc3)
+
 
 13. **Sales Forecasting and Weighted Pipelines**
    - **Weighted Pipeline Approach**: Measure pipeline value through probabilities assigned at different sales stages (e.g., buyer interest, business case built, timing confirmed). Multiply deal size by the likelihood of closure at each stage for realistic forecasts.
@@ -91,6 +93,9 @@
    - **Spot Signals of Disinterest**:
      - Buyers may hesitate, ghost, or give excuses like "It’s not in this year’s budget." Recognize these as polite “no”s and disqualify quickly.
    - **The Power of “No”**: Encourage prospects to say “no” early. Later in the process, offer elegant off-ramps like, *“If this isn’t a fit, please let us know.”* This prevents wasted effort on unqualified leads.
+
+![Off Ramping](https://github.com/user-attachments/assets/df44e7dd-f6c3-4b9f-8023-c28d835378a4)
+
 
 17. **Team Sales Strategies**
    - **Widen Sales Conversations**:
