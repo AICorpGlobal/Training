@@ -30,3 +30,6 @@
 
 - [Resources to Become a Great Engineering Leader by Gregor Ojstersek](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
   - This is a curated list of 100+ books and newsletters on becoming a better engineer, being more product-minded and getting better at data engineering. https://lnkd.in/eQA-wtQ8
+
+- https://beej.us/guide/
+  - Beej Guide Collection for c and python  
